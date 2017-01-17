@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Woerden Dynamics</string>
+    <string name="misson">We build robots that fill your needs</string>
+    <string name="address">Vegastreet 11</string>
+    <string name="place">Woerden</string>
+    <string name="phone">+31 (3480) 666777</string>
+    <string name="email">info@woerdendynamics.com</string>
+    <string name="open">mo, tu, th, vr 8:00 till 18:00 </string>
 </resources>
