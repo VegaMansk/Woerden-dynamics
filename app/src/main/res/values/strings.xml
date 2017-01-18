@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">WOERDEN DYNAMICS</string>
-    <string name="misson">We build robots that fill your needs. Custom features, on your demand. We make them fly, drive and run. All colors are supported.</string>
+    <string name="misson">We build robots that fill your needs. Custom features on your demand. We make them fly, drive and run. All colors are supported.</string>
     <string name="address">620 Eighth Avenue New York, NY 10018</string>
     <string name="phone">+31 (3480) 666777</string>
     <string name="email">info@woerdendynamics.com</string>
